@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AZCash</title>
+        <item>
+            <title>1.4</title>
+            <pubDate>Fri, 11 Oct 2024 10:07:50 -0700</pubDate>
+            <sparkle:version>1.4</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/prod/AZCash-v1.4.0-test-engma.staging.dmg" length="39086371" type="application/octet-stream" sparkle:edSignature="O7VBeIVxQQsADLflexSE/DtQoCGbv1HTH+hUO660YaoGQlLF/IiIHLJa79C1dGddL7sDUXY1RwlereI2ohrJDg=="/>
+        </item>
+    </channel>
+</rss>
