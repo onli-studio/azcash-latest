@@ -3,12 +3,14 @@
     <channel>
         <title>AZCash</title>
         <item>
-            <title>1.4.2</title>
-            <pubDate>Thu, 17 Oct 2024 11:26:17 -0700</pubDate>
-            <sparkle:version>1.4.2</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <title>1.4.3</title>
+            <pubDate>Fri, 18 Oct 2024 16:38:29 -0700</pubDate>
+            <sparkle:version>1.4.3</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/v1.4.2/AZCash-v1.4.2-loctest-engma.staging.dmg" length="39090393" type="application/octet-stream" sparkle:edSignature="SAP+ApQln40nTHHIGJhGKaZ5p15/8C7yqijxD4s5yDBeqysNrD1L95veoFSD3GB0hRu1XsfZcQey7ys6L62iBA=="/>
+            <sparkle:fullReleaseNotesLink>https://onli-studio.github.io/azcash-latest/release-notes/history</sparkle:fullReleaseNotesLink>
+            <sparkle:releaseNotesLink>https://onli-studio.github.io/azcash-latest/release-notes/v1.4.3</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/v1.4.3/AZCash-v1.4.3-beta-development.dmg" length="39084431" type="application/octet-stream" sparkle:edSignature="w5XRGSiN0NbtEKtQezF/D6U903f8JEUZqWtHicv8SB9DLxyIMP0f3VVTDVxo9zVnXWtaOjQaam9bvKLmqS6hDQ=="/>
         </item>
     </channel>
 </rss>
