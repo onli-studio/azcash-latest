@@ -1,5 +1,11 @@
 # Version History
 
+## v1.4.4
+- Update Vault Notifications
+- Add Schedule Purchase Text
+- Add Incoming/Outgoing Sub Account Text
+- Table Column width fix
+- Add Vault Logs
 
 ## v1.4.3
 - Remove client transaction throttle
