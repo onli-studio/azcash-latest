@@ -1,5 +1,17 @@
 # Version History
 
+## v1.4.5
+- receipts display name/cmp #112
+- xfer order display member/grp/cmp #144
+- display dashboard trade subtitles
+- rm redeem language
+- fix crash on xfer place order button #153
+- fix browse profile view #151
+- fix multi click confirm view #155
+- rm memo add note field #115
+- add animated balance change #109
+- add dark theme attachment image
+
 ## v1.4.4
 - Update Vault Notifications
 - Add Schedule Purchase Text
