@@ -1,5 +1,8 @@
 # Version History
 
+## v1.4.6
+- CHTAZ Marketplace in Arizona
+
 ## v1.4.5
 - receipts display name/cmp #112
 - xfer order display member/grp/cmp #144
