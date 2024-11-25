@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AZCash</title>
+        <title>CHIT</title>
         <item>
-            <title>1.4.6</title>
-            <pubDate>Thu, 14 Nov 2024 17:33:28 -0700</pubDate>
-            <sparkle:version>1.4.6</sparkle:version>
-            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <title>1.4.7</title>
+            <pubDate>Mon, 25 Nov 2024 09:46:23 -0600</pubDate>
+            <sparkle:version>1.4.7</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>https://onli-studio.github.io/azcash-latest/release-notes/history</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/v1.4.6/AZCash-v1.4.6-chtaz.dev.dmg" length="40197201" type="application/octet-stream" sparkle:edSignature="vitdUtiL2bgltSfez0gk86SE4JE8mcvHfBOsQTjp+owsXXUrlydAezOyySs3n4ADzW8vHQczlW6j4etAju7BBg=="/>
+            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/v1.4.7/CHIT-v1.4.7-chtaz.dev.dmg" length="38117174" type="application/octet-stream" sparkle:edSignature="gv9/yxwYrm79IusFZKGxKn9uclLl4u+nI2AHhUwoOPXqh/HbUebM3/Gy6mxNmM0nhaNkaejP63Ai4IJr1ltjCg=="/>
         </item>
     </channel>
 </rss>
