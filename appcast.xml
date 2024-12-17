@@ -3,13 +3,13 @@
     <channel>
         <title>CHIT</title>
         <item>
-            <title>1.4.7</title>
-            <pubDate>Mon, 25 Nov 2024 14:17:23 -0600</pubDate>
-            <sparkle:version>1.4.7</sparkle:version>
-            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <title>1.4.8</title>
+            <pubDate>Tue, 17 Dec 2024 15:55:00 -0600</pubDate>
+            <sparkle:version>1.4.8</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>https://onli-studio.github.io/azcash-latest/release-notes/history</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/v1.4.7/CHIT-v1.4.7-chtaz.dev.dmg" length="38116176" type="application/octet-stream" sparkle:edSignature="mm5nRXwTk3cOu0MnkDsAJAoiDV2e7eehbeJTkbBurYzYMa3MBXvZkV8HQ9d8EQ2ZOuMJHLWBbtHxxtSREVWACg=="/>
+            <enclosure url="https://github.com/onli-studio/azcash-latest/releases/download/v1.4.8/CHIT-v1.4.8-chtaz.dev.dmg" length="45503777" type="application/octet-stream" sparkle:edSignature="+kIdM9bZlHNph1PvtXdGiSqpgXfDdFxCX0hhKAlJVEj3by30SQwzufJ28I5S7G8jgJOypahekWF/8mN07YXCCw=="/>
         </item>
     </channel>
 </rss>
