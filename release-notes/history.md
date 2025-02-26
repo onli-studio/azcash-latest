@@ -1,5 +1,11 @@
 # Version History
 
+## v1.4.12
+- Fix concurrent vault method requests
+- Fix auto unship errors
+- Fix authorize behavior failures
+- update to vault sdk v1.9.1
+
 ## v1.4.8
 - Add Settings View
 - Feature AutoApprove Xfers
